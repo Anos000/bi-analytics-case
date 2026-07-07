@@ -8,6 +8,10 @@ BI-кейс для портфолио: подготовка данных, рас
 
 Дашборд показывает ключевые метрики по ставкам, активности пользователей, финансовому результату платформы, структуре выигрышей и проигрышей, сегментам ставок и топовым игрокам.
 
+## Превью дашборда
+
+![Dashboard overview](screenshots/dashboard_overview.svg)
+
 ## Ссылка на дашборд
 
 [Открыть дашборд в Preset/Superset](https://770ebd6c.us2a.app.preset.io/superset/dashboard/10/?native_filters_key=ZixNsKEO89M21l9ytDHEgw)
