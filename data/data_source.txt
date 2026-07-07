@@ -1,5 +1,0 @@
-Dataset source:
-https://www.kaggle.com/datasets/kingabzpro/gambling-behavior-bustabit
-
-The original dataset is not included in this repository.
-Please download it directly from Kaggle.
