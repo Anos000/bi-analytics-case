@@ -1,0 +1,8 @@
+Dashboard name:
+Crash Game Player Behavior Analytics
+
+Dashboard link:
+https://770ebd6c.us2a.app.preset.io/superset/dashboard/10/?native_filters_key=ZixNsKEO89M21l9ytDHEgw
+
+Note:
+The dashboard may require Preset workspace access or authorization.
